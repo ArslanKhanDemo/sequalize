@@ -18,3 +18,6 @@ const testDatabase = async ()=>{
 module.exports = {
    sq:connection,testDatabase
 }
+
+
+
